@@ -1,5 +1,5 @@
 import React from 'react'
-
+import {updateColors, updateChildColors} from './updateColor.js'
 
 const Tier3 = (props) => (
   // this component does not need to change (but feel free to change however you like!)
